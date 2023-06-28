@@ -27,7 +27,7 @@ preferred-citation:
   date-released: "2021-01-01"
   volume: "232"
   journal: "Knowl. Based Syst."
-  title: "{TITAN:} {A} knowledge-based platform for Big Data workflow management"
+  title: "{TITAN: A knowledge-based platform for Big Data workflow management"
   start: "107489"
   authors:
     - family-names: "Benítez-Hidalgo"
