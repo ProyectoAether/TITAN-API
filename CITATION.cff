@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-doi: "10.1016/j.knosys.2021.107489"
-title: "{TITAN:} {A} knowledge-based platform for Big Data workflow management"
+doi: 10.1016/j.knosys.2021.107489
+title: "TITAN A knowledge-based platform for Big Data workflow management"
 cff-version: "CITATION.cff"
 authors:
 - family-names: "Benítez-Hidalgo"
