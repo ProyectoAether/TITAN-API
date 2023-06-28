@@ -1,6 +1,4 @@
 cff-version: 1.2.0
-date-released: "2021-01-01"
-repository-code: "https://github.com/ProyectoAether/TITAN-API"
 message: "If you use this software, please cite it as below."
 doi: "10.1016/j.knosys.2021.107489"
 title: "{TITAN:} {A} knowledge-based platform for Big Data workflow management"
